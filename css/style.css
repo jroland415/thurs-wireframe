@@ -46,3 +46,32 @@ main ul li {
 main ul li:last-child {
   margin-right: 0px;
 }
+
+div {
+  float: right;
+  width: 450px;
+}
+
+h2 {
+  font-size: 32px;
+  margin-left: 12px;
+}
+
+p {
+  margin: 15px;
+  font-size: 18px;
+  overflow: scroll;
+}
+
+button {
+  font-size: 20px;
+  margin-left: 12px;
+  padding: 10px 34px;
+  background-color: #000;
+  color: white;
+}
+
+footer {
+  height: 100px;
+  background-color: #444;
+}
